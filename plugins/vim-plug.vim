@@ -11,7 +11,4 @@ Plug 'scrooloose/nerdtree'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'jiangmiao/auto-pairs'
 Plug 'scrooloose/nerdcommenter'
-"C++ language support
-Plug 'zchee/deoplete-clang'
-Plug 'shougo/neoinclude.vim'
 call plug#end()

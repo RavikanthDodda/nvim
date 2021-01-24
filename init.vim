@@ -1,6 +1,6 @@
 source $HOME/.config/nvim/plugins/vim-plug.vim
-source $HOME/.config/nvim/plugins/plugin-settings.vim
 source $HOME/.config/nvim/mappings/keymaps.vim
+source $HOME/.config/nvim/plugins/plugin-settings.vim
 source $HOME/.config/nvim/general/settings.vim
 "source $HOME/.config/nvim/plugins/vim-plug.vim
 
